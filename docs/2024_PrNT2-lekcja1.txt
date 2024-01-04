@@ -5,14 +5,13 @@ I. Windows
     4. Zainstaluj Notepad++
     5. Zainst Visual Studio Code
     
-
 II. Github
     1. Stwórz konto na GitHubie (o ile nie masz)
     2. Wygeneruj na GitHubie personal access token (classic) i gdzies zapisz
+	   - Kliknij avatar > Settings > Developer settings > Personal access tokens > Tokens classic > Generate new token (classic) 
+	   - Expiration: Never , zaznacz Repo
     3. Stwórz nowe repozytorium publiczne
 
 III. Python
     1. Zainstaluj Python 3 (https://www.python.org/downloads/)
 	
-
-    
