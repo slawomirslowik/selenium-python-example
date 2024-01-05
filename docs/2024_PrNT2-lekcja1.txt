@@ -1,9 +1,8 @@
 I. Windows
-    1. Stwórz odrębne konto Użytkownika Windows
+    1. Stwórz odrębne konto Użytkownika Windows (NET USER <NAME> <PASS> /ADD)
     2. Zainstaluj Git for windows (https://gitforwindows.org/)
-    3. Zainstaluj PyCharm Community Edition (https://www.jetbrains.com/edu-products/download/other-PCE.html)
-    4. Zainstaluj Notepad++
-    5. Zainst Visual Studio Code
+    3. Zainstaluj PyCharm Community Edition 2022.2.2 (https://www.jetbrains.com/edu-products/download/other-PCE.html)
+    4. Zainstaluj Notepad++ lub Visual Studio Code
     
 II. Github
     1. Stwórz konto na GitHubie (o ile nie masz)
@@ -13,5 +12,10 @@ II. Github
     3. Stwórz nowe repozytorium publiczne
 
 III. Python
-    1. Zainstaluj Python 3 (https://www.python.org/downloads/)
+    1. Zainstaluj Python 3.8 (https://www.python.org/downloads/)
+
+IV. Projekt template
+	1. sklonuj projekt: 
+	https://github.com/slawomirslowik/selenium-python-example.git
+
 	
