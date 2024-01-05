@@ -3,7 +3,8 @@ I. Windows
     2. Zainstaluj Git for windows (https://gitforwindows.org/)
     3. Zainstaluj PyCharm Community Edition 2022.2.2 (https://www.jetbrains.com/edu-products/download/other-PCE.html)
     4. Zainstaluj Notepad++ lub Visual Studio Code
-    
+    N@uczyciel_ZSL
+	
 II. Github
     1. Stwórz konto na GitHubie (o ile nie masz)
     2. Wygeneruj na GitHubie personal access token (classic) i gdzies zapisz
@@ -12,10 +13,24 @@ II. Github
     3. Stwórz nowe repozytorium publiczne
 
 III. Python
-    1. Zainstaluj Python 3.8 (https://www.python.org/downloads/)
+    1. Zainstaluj Python (3.12.1) (https://www.python.org/downloads/)
 
 IV. Projekt template
 	1. sklonuj projekt: 
-	https://github.com/slawomirslowik/selenium-python-example.git
+	- rclick - open git bash 
+	- git config --global user.name "Twoje Dane"
+	- git config --global user.email "Twoj@ema.il"
+	- git clone https://github.com/slawomirslowik/selenium-python-example.git
+	- otwórz folder z repozytorium 
+	   usuń .git
+	   
+	git init    
+	git add .
+	git commit -m "initial commit"
+	
+	git remote add origin https://github.com/slawomirslowik/test.git
+	git branch -M main
+	git push -u origin main
+		> poczekaj na okno logoweania - podaj token  / zaloguj się w przeglądarca
 
 	
