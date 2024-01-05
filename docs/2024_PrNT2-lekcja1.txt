@@ -21,16 +21,17 @@ IV. Projekt template
 	- git config --global user.name "Twoje Dane"
 	- git config --global user.email "Twoj@ema.il"
 	- git clone https://github.com/slawomirslowik/selenium-python-example.git
-	- otwórz folder z repozytorium 
+	- otwórz folder z repozytorium
 	   usuń .git
-	   
+	
+    w gitbashu wejdzd do folderu z repo
+	
 	git init    
 	git add .
-	git commit -m "initial commit"
-	
-	git remote add origin https://github.com/slawomirslowik/test.git
+	git commit -m "initial commit"	
+	git remote add origin https://github.com/<user>/<repo>.git
 	git branch -M main
 	git push -u origin main
-		> poczekaj na okno logoweania - podaj token  / zaloguj się w przeglądarca
+		> poczekaj na okno logowania gita i podaj token / zaloguj się w przeglądarca
 
 	
