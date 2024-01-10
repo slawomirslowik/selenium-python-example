@@ -1,15 +1,24 @@
-git init  -> inicjalizacja nowego repozytorium git
-git status 
-git log  -> lista commitów (odpowiednik punktu przywracania w systemie) 
+git init  						-> inicjalizacja nowego repozytorium git
 
-git branch
-git branch -M 'nazwa'   -> zmiana nazwy brancha
+git status  					-> inicjalizacja nowego repozytorium git
 
-git checkout 'nazwa_brancha' -> przełączaniwe się pomiędzy gałęziami (lub commitami)
-git checkout -     -> przełącza do poprzedniego brancha 
+git log  						-> lista commitów (odpowiednik punktu przywracania w systemie) 
 
+git branch						-> lista gałęzi
 
-git checkout -b branch1   -> tworzy gałąź 'branch1' i przełącza się na nią
+git branch -M 'nazwa'   		-> zmiana nazwy brancha
 
+git checkout 'nazwa_brancha' 	-> przełączaniwe się pomiędzy gałęziami (lub commitami)
 
-git branch  -> lista gałęzi
+git checkout -     				-> przełącza do poprzedniego brancha 
+
+git checkout -b branch1   		-> tworzy gałąź 'branch1' i przełącza się na nią
+
+git branch  					-> lista gałęzi
+
+git add .   					-> dodaj wszystkie zmiany
+git add <nazwa_pliku>  			-> dodaj zmiany w pliku
+
+git status     					-> 
+
+git commit -m "opis_zmian"    	-> zacommituj dodane zmiany 
