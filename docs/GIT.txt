@@ -15,6 +15,7 @@ git checkout 'nazwa_brancha' 	-> przełączaniwe się pomiędzy gałęziami (lub
 git checkout -     				-> przełącza do poprzedniego brancha 
 git checkout -b branch1   		-> tworzy gałąź 'branch1' i przełącza się na nią
 git merge <nazwa_brancha_do_zmergowania>
+git branch -d <nazwa>           -> usun branch
 
 -- zarządzanie zmianami
 git status  					-> status zmian
