@@ -1,3 +1,5 @@
+https://expose.pl/czym-jest-git-i-dlaczego-warto-znac-systemy-kontroli-wersji-kodu/
+
 -- konfiguracja 
 git config --global user.name "Nazwa Użytkownika"
 git config --global user.email "email@uzytkowni.ka"
