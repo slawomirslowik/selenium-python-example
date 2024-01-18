@@ -7,8 +7,11 @@ A simple search in DuckDuckGo to check that results are displayed is used as exa
 
 # Requirements
 
-* Python 3.7.X
-* pip and setuptools
+* Python 3.12.X
+* pip and setuptools   
+  - pip (lub pip3) install --upgrade pip setuptools
+  - python.exe -m pip install --upgrade pip
+  
 * [venv](<https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/>) (recommended)
 
 # Instalation
@@ -23,7 +26,7 @@ A simple search in DuckDuckGo to check that results are displayed is used as exa
 # Test Execution
 
 1. Open a terminal
-2. From the project root directory run: `pytest -v --html=results/<specify_report_name>.html`
+2. From the project root directory run: `pytest -v --html=results/<NAZWIJ RAPORT>.html`
 
 # Configuration
 
