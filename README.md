@@ -9,8 +9,8 @@ A simple search in DuckDuckGo to check that results are displayed is used as exa
 
 * Python 3.12.X
 * pip and setuptools   
-  - pip (lub pip3) install --upgrade pip setuptools
   - python.exe -m pip install --upgrade pip
+  - pip install --upgrade pip setuptools
   
 * [venv](<https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/>) (recommended)
 
