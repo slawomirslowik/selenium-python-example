@@ -14,6 +14,7 @@ II. Github
 
 III. Python
     1. Zainstaluj Python (3.12.1) (https://www.python.org/downloads/)
+	zainstaluj jako admin, dla wszystkich uzytkowników, dodaj pip i py launcher (checkboxy)
 
 IV. Projekt template
 	1. sklonuj projekt: 
