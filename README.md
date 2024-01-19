@@ -26,7 +26,7 @@ A simple search in DuckDuckGo to check that results are displayed is used as exa
 # Test Execution
 
 1. Open a terminal
-2. From the project root directory run: `pytest -v --html=results/<NAZWIJ RAPORT>.html`
+2. From the project root directory run: `pytest -v --html=results/TWOJA_NAZWA_RAPORTU.html`
 
 # Configuration
 
@@ -34,7 +34,7 @@ A simple search in DuckDuckGo to check that results are displayed is used as exa
 
 # Results
 
-'/results/<specify_report_name>.html'
+'/results/TWOJA_NAZWA_RAPORTU.html'
 
 # Links
    
